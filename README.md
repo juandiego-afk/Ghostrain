@@ -1,0 +1,2 @@
+# Ghostrain
+Universal script
